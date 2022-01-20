@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name": "php oop",
+    "description": "name space demo",
+    "psr-4": {
+      "Machines \\": "app"
+    }
+  }
+}
